@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fluid-Simulation-WebGL/static/css/main.693cdf0c.css",
+    "main.js": "/Fluid-Simulation-WebGL/static/js/main.1be97389.js",
+    "static/js/453.78f1d9f6.chunk.js": "/Fluid-Simulation-WebGL/static/js/453.78f1d9f6.chunk.js",
+    "index.html": "/Fluid-Simulation-WebGL/index.html",
+    "main.693cdf0c.css.map": "/Fluid-Simulation-WebGL/static/css/main.693cdf0c.css.map",
+    "main.1be97389.js.map": "/Fluid-Simulation-WebGL/static/js/main.1be97389.js.map",
+    "453.78f1d9f6.chunk.js.map": "/Fluid-Simulation-WebGL/static/js/453.78f1d9f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.693cdf0c.css",
+    "static/js/main.1be97389.js"
+  ]
+}
