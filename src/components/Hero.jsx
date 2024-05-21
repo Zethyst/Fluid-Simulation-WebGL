@@ -13,7 +13,7 @@ function Hero() {
         <div className='flex flex-col justify-center items-center w-full md:w-96 gap-5 relative text-[#EEE5FF] '>
             <span className='text-5xl md:text-7xl w-[500px] md:w-[650px] text-center md:text-start text-balance font-semibold leading-[5rem] tracking-wide'>Attract Your Visitors Attention With Colorful</span>
             <span className='text-5xl md:text-7xl w-[500px] md:w-[650px] text-center md:text-start text-balance font-semibold gradient-color tracking-wide'>Motion Art Effect</span>
-            <span className='text-xl w-[670px] text-gray-400 px-3 py-7'>Unleash the power of creativity with Motion Art for Elementor - your ultimate solution for seamlessly integrating captivating animations into your website.</span>
+            <span className='text-xl w-[500px] md:w-[670px] text-center md:text-start text-gray-400 px-3 py-7'>Unleash the power of creativity with Motion Art for Elementor - your ultimate solution for seamlessly integrating captivating animations into your website.</span>
         </div>
     </div>
   )
