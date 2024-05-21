@@ -38,3 +38,18 @@ code {
   font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
 }
+
+::-webkit-scrollbar {
+  width: 0.4rem;
+  height: 0.4rem;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 12px;
+  background: #dddddd;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 12px;
+  background: linear-gradient(62deg, #B73BBE 0%, #99519c 75%, #992E9D 100%);
+}
