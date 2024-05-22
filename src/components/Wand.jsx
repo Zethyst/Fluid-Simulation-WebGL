@@ -10,8 +10,6 @@ import { TextPlugin } from "gsap/TextPlugin";
 gsap.registerPlugin(TextPlugin,ScrollTrigger,ScrollToPlugin);
 
 function Wand() {
-
-  let mm = gsap.matchMedia();
     
   useEffect(() => {
 
